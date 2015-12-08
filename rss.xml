@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CedarCreekXC]]></title>
         <description><![CDATA[CedarCreekXC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cedarcreekxc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 20:10:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 20:11:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cedarcreekxc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/cedarcreekxc/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">3bf6a2de-9252-4d5e-8f69-3d3183946a89</guid>
-            <pubDate>Tue, 08 Dec 2015 20:10:18 GMT</pubDate>
+            <pubDate>Tue, 08 Dec 2015 20:10:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
